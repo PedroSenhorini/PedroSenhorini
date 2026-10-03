@@ -22,4 +22,4 @@ _Rust, Axum, SQLx, Postgres_
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/pedrosenhorini/) · pedrosenhorini0@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pedrosenhorini/) · [Portfólio](https://portfolio-ten-liard-23.vercel.app) · pedrosenhorini0@gmail.com
