@@ -16,7 +16,7 @@ _React, TypeScript, Supabase, Tailwind_
 API REST de produtos e usuários com autenticação JWT e rotas restritas para admin. Deploy na Railway.\
 _Node.js, Express, TypeScript, MongoDB_
 
-**Carteira de investimentos em Rust**\
+**[Carteira de investimentos em Rust](https://github.com/PedroSenhorini/rust-fullstack-carteira-investimentos)**\
 Projeto final do bootcamp Rust do Santander/DIO. Fiz a parte de posições do usuário e o cálculo do valor total da carteira.\
 _Rust, Axum, SQLx, Postgres_
 
