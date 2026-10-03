@@ -4,7 +4,7 @@ Desenvolvedor full stack júnior, de Londrina/PR. Estudo Análise e Desenvolvime
 
 Quero migrar de vez para desenvolvimento e estou procurando estágio ou vaga júnior remota.
 
-No dia a dia programo com React, TypeScript e Node.js, e venho estudando Rust.
+Estou em constante estudo e aprendo construindo projetos, principalmente com React, TypeScript e Node.js. Ultimamente também venho estudando Rust.
 
 ### Projetos
 
